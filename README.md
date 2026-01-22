@@ -1,4 +1,5 @@
-## 👋 About Me
+## 👋 About Me ![Profile Views](https://komarev.com/ghpvc/?username=gitnassima20&label=Profile%20views&color=0e75b6&style=flat)
+
 
 Assalamo alaikom, I’m **Nassima** 👋
 
@@ -15,3 +16,7 @@ I enjoy turning ideas into reliable products and improving systems end-to-end.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitnassima20&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnassima20&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gitnassima20&theme=tokyonight&hide_border=true)
+
+
