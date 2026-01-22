@@ -10,8 +10,6 @@ Assalamo alaikom, I’m **Nassima** 👋
 
 I enjoy turning ideas into reliable products and improving systems end-to-end.
 
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitnassima20&show_icons=true&theme=tokyonight)
